@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @j-cull
-- 👀 I’m interested in learning Python and starting personal projects.
-
+I am curious about coding, and plan on starting projects- Python is the language I aim to use.
